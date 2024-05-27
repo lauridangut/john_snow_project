@@ -32,7 +32,7 @@ Snow tuvo la oportunidad de probar y refinar su teoría, además de salvar vidas
 
 Lamentablemente, su mapa original no se encontró. Sin embargo, el famoso mapa que se muestra debajo, fue creado por el mismo Dr. Snow aproximadamente un año después, en 1855. Esta imagen se conoce como "The ghost map" porque representa y describe las muertes por cólera.
 
-<img src="/img/mapa_original.jpg" style="text-align: center;" width="250"/>
+<img src="/img/mapa_original.jpg" align="left" width="300" height="auto" style="margin-right: 20px;" />
 
 ## ¡Es la bomba!
 
@@ -40,11 +40,11 @@ Cuando John Snow marcó las muertes en el mapa, notó que no había un patrón a
 Las ubicaciones de las bombas cercanas también fueron marcadas en el mapa por el Dr. Snow, quien en ese momento ya tenía una teoría bien desarrollada sobre cómo se propaga el cólera a través del agua. Entonces, ¡bingo!.
 El Dr. Snow pudo demostrar que la mayoría de las muertes relacionadas con el cólera se centraron en una sola bomba de agua pública en Broad Street, al combinar las ubicaciones de las bombas con las ubicaciones de las muertes a causa de la enfermedad. ¡Por fin tenía las pruebas necesarias!.
 
-<img src="/img/mapa_bombas_de_agua.png" style="text-align: center;" width="300"/>
+<img src="/img/mapa_bombas_de_agua.png" style="text-align: center;" width="700" height="auto"/>
 
 ## You know nothing, John Snow! (de nuevo)
 
-<img src="/img/johnsnow_caricature1.jpg" align="left" width="300" style="margin-right: 20px;" />
+<img src="/img/johnsnow_caricature1.jpg" align="left" width="250" style="margin-right: 20px;" />
 
 Pero no se detuvo ahí y siguió investigando más a fondo. Estaba buscando anomalías en los datos (ahora diríamos "outliers") y, de hecho, encontró dos puntos en el mapa donde no hubo ninguna muerte: una cervecería de Broad Street y un asilo cerca de Poland Street. En ambos casos, comprobó que las personas no consumían agua de la bomba, la fuente del brote.
 Ahora estaba seguro, y aunque las autoridades públicas no confiaban en él ni en su teoría, el 8 de septiembre de 1854 quitaron la manija de la bomba. Posteriormente, el Dr. Snow recopiló y publicó todos los datos sobre las muertes en su renombrado libro, en orden cronológico, antes y después del pico del brote.
@@ -59,7 +59,7 @@ Una réplica de la bomba, junto con una placa explicativa y conmemorativa (sin m
 
 Podemos aprender mucho de los datos de John Snow. Pero, ¡atentos! observar solamente los números podría llevarnos a una conclusión errónea. Gracias al doctor Snow tenemos los datos en orden cronológico (es decir, como datos de series de tiempo), por lo que la mejor manera de ver el panorama completo es visualizarlo y mirarlo como él lo vio mientras escribía *On the Mode of Communication of Cholera (1855)*.
 
-<img src="/img/grafico_de_linea.png" style="text-align: center;" width="600"/>
+<img src="/img/grafico_de_linea.png" style="text-align: center;" width="700" height="auto"/>
 
 
 ## El mito de John Snow
