@@ -34,6 +34,8 @@ Snow tuvo la oportunidad de probar y refinar su teoría, además de salvar vidas
 
 Lamentablemente, su mapa original no se encontró. Sin embargo, el famoso mapa que se muestra debajo, fue creado por el mismo Dr. Snow aproximadamente un año después, en 1855. Esta imagen se conoce como "The ghost map" porque representa y describe las muertes por cólera.
 
+
+
 ## ¡Es la bomba!
 
 Cuando John Snow marcó las muertes en el mapa, notó que no había un patrón aleatorio. La mayoría de las muertes ocurrieron principalmente en la intersección de Broad Street (actualmente Broadwick Street) y Cambridge Street (ahora Lexington Street). El epicentro del brote fueron varias muertes alrededor de la intersección de estas calles, pero ¿qué había allí? Sí, una bomba de agua.
