@@ -30,9 +30,9 @@ Snow tuvo la oportunidad de probar y refinar su teoría, además de salvar vidas
 
 ## El mapa fantasma
 
-Lamentablemente, su mapa original no se encontró. Sin embargo, el famoso mapa que se muestra debajo, fue creado por el mismo Dr. Snow aproximadamente un año después, en 1855. Esta imagen se conoce como "The ghost map" porque representa y describe las muertes por cólera.
-
 <img src="/img/mapa_original.jpg" align="left" width="200" height="auto" style="margin-right: 20px;" />
+
+Lamentablemente, su mapa original no se encontró. Sin embargo, el famoso mapa que se muestra debajo, fue creado por el mismo Dr. Snow aproximadamente un año después, en 1855. Esta imagen se conoce como "The ghost map" porque representa y describe las muertes por cólera.
 
 ## ¡Es la bomba!
 
