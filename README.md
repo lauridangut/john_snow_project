@@ -16,7 +16,7 @@ En este proyecto, propuesto por **Radovan Kavicky** en la plataforma *Datacamp*,
 
 ## ¡El cólera ataca!
 
-<img src="/img/johnsnow_cholera1.jpg" align="left" width="150" style="margin-right: 20px;" />
+<img src="/img/johnsnow_cholera1.jpg" align="right" width="150" style="margin-left: 20px;" />
 
 El cólera era un visitante frecuente de las concurridas y antihigiénicas calles de Londres antes de que John Snow hiciera su descubrimiento. Entre 1839 y 1856, se publicaron más de 700 estudios y ensayos sólo en Londres, lo que lo convirtió en uno de los temas más estudiados en la época del tercer brote. 
 Casi todos los autores sostuvieron la teoría de que los brotes eran causados por miasma o "mal aire". El innovador trabajo de John Snow con la antestesia y los gases es lo que inicialmente lo llevó a cuestionar el modelo de la enfermedad. Antes del brote de 1849, en un ensayo titulado "On the mode of communication of cholera", desarrolló y publicó por primera vez su propia teoría, de que el cólera se transmite por el agua o los alimentos. En The Lancet y London Medical Gazette, el ensayo recibió críticas desfavorables. Ahora sabemos que tenía razón, pero el Dr. Snow luchó con la forma de demostrarlo.   
