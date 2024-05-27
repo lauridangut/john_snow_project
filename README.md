@@ -23,7 +23,7 @@ Casi todos los autores sostuvieron la teoría de que los brotes eran causados po
 
 ## No sabes nada, John Snow
 
-<img src="/img/johnsnow_cholera_king2" align="left" width="150" style="margin-right: 20px;" />
+<img src="/img/johnsnow_cholera_king2.png" align="left" width="150" style="margin-right: 20px;" />
 
 El trabajo del Dr. Snow fue ignorado en gran medida porque resultaba impensable que una sola persona pudiera probar que TODOS los demás estaban equivocados. Sus colegas médicos simplemente dijeron: "¡No sabes nada, John Snow!". Su primer intento para desacreditar la teoría del miasma fracasó, pero para aclarar qué tipo de evidencia sería convincente, un revisor le dio el siguiente consejo: encontrar personas que vivieran juntas, con estilos de vida similares en todos los aspectos, **excepto en la fuente de agua que consumían**.
 Snow tuvo la oportunidad de probar y refinar su teoría, además de salvar vidas, durante la epidemia de cólera en Soho, Londres, en 1854. Pero, ¿cuál fue la evidencia concluyente de que estaba en lo correcto?.
