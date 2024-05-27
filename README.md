@@ -32,7 +32,7 @@ Snow tuvo la oportunidad de probar y refinar su teoría, además de salvar vidas
 
 Lamentablemente, su mapa original no se encontró. Sin embargo, el famoso mapa que se muestra debajo, fue creado por el mismo Dr. Snow aproximadamente un año después, en 1855. Esta imagen se conoce como "The ghost map" porque representa y describe las muertes por cólera.
 
-<img src="/img/mapa_original.jpg" align="left" width="300" height="auto" style="margin-right: 20px;" />
+<img src="/img/mapa_original.jpg" align="left" width="200" height="auto" style="margin-right: 20px;" />
 
 ## ¡Es la bomba!
 
@@ -44,7 +44,7 @@ El Dr. Snow pudo demostrar que la mayoría de las muertes relacionadas con el c�
 
 ## You know nothing, John Snow! (de nuevo)
 
-<img src="/img/johnsnow_caricature1.jpg" align="left" width="250" style="margin-right: 20px;" />
+<img src="/img/johnsnow_caricature1.jpg" align="left" width="200" style="margin-right: 20px;" />
 
 Pero no se detuvo ahí y siguió investigando más a fondo. Estaba buscando anomalías en los datos (ahora diríamos "outliers") y, de hecho, encontró dos puntos en el mapa donde no hubo ninguna muerte: una cervecería de Broad Street y un asilo cerca de Poland Street. En ambos casos, comprobó que las personas no consumían agua de la bomba, la fuente del brote.
 Ahora estaba seguro, y aunque las autoridades públicas no confiaban en él ni en su teoría, el 8 de septiembre de 1854 quitaron la manija de la bomba. Posteriormente, el Dr. Snow recopiló y publicó todos los datos sobre las muertes en su renombrado libro, en orden cronológico, antes y después del pico del brote.
